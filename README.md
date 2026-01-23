@@ -1,10 +1,10 @@
-# HEALTHCARE-FINDER
+# HEALTHCARE-PORTAL
 A centralized web-based platform built with PHP and MySQL to bridge the information gap between patients and healthcare providers. It allows users to search for hospitals by disease, browse medical departments, and compare estimated treatment costs and specialist doctors across major Indian cities.
 # Health Care Portal 🏥
 
 **Design Capstone Project | School of Computer Science and Engineering, XIM University**
 
-The **Health Care Portal** is a web-based application designed to bridge the information gap between patients and healthcare providers. In today's fragmented healthcare landscape, finding reliable information about hospitals, specific treatments, and costs can be challenging[cite: 14, 27]. [cite_start]This project aggregates this data into a user-friendly platform, empowering users to make informed decisions about their healthcare.
+The **Health Care Portal** is a web-based application designed to bridge the information gap between patients and healthcare providers. In today's fragmented healthcare landscape, finding reliable information about hospitals, specific treatments, and costs can be challenging. This project aggregates this data into a user-friendly platform, empowering users to make informed decisions about their healthcare.
 
 ## 📋 Table of Contents
 - [Project Overview]
@@ -20,7 +20,7 @@ The primary objective of this portal is to create a centralized hub where users 
 ## ✨ Key Features
 * **Disease-Based Search:** Users can find relevant hospitals by simply entering a disease name (e.g., "Cancer") in the search bar.
 * **Departmental Browsing:** Browse hospitals categorised by medical departments such as Cardiology, Oncology, or Neurology.
-* ]**Cost Estimation & Filtering:** View estimated treatment cost ranges and filter search results by budget to find affordable options.
+* **Cost Estimation & Filtering:** View estimated treatment cost ranges and filter search results by budget to find affordable options.
 * **Detailed Hospital Profiles:** Access essential information including location, hospital type (Private/Government), and years of operation.
 * **User Authentication:** Secure login and registration system for users to manage their access.
 * **Top Doctor Listings:** View names of leading specialists associated with specific treatments.
@@ -35,7 +35,7 @@ The application is built using a standard client-server architecture[cite: 45].
 * **Development Tool:** Notepad++ / VS Code 
 
 ## 🗄 Database Schema
-[cite_start]The project uses a database named `healthcaredb` containing two primary tables:
+The project uses a database named `healthcaredb` containing two primary tables:
 
 1.  **`users`**: Stores user credentials and account details.
     * Columns: `id`, `fullname`, `email`, `password` (hashed), `createdat`.
