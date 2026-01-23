@@ -48,7 +48,7 @@ This project is designed to run in a local environment using XAMPP.
 1.  **Install XAMPP:** Download and install XAMPP for your OS.
 2.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Ramandeep2321/HEALTHCARE-FINDER.git)
+    git clone [https://github.com/yogapriyasahoo/HEALTHCARE-PORTAL.git)
     ```
 3.  **Move Files:** Copy the project folder into the `htdocs` directory of your XAMPP installation (usually `C:\xampp\htdocs`).
 4.  **Database Configuration:**
