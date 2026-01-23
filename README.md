@@ -15,7 +15,7 @@ The **Health Care Portal** is a web-based application designed to bridge the inf
 - [Future Scope]
 
 ## 🚀 Project Overview
-The primary objective of this portal is to create a centralized hub where users can search for hospitals based on specific diseases or medical departments[cite: 15, 31]. [cite_start]The system provides critical details such as hospital location, top doctors, and estimated minimum and maximum treatment costs.
+The primary objective of this portal is to create a centralized hub where users can search for hospitals based on specific diseases or medical departments. The system provides critical details such as hospital location, top doctors, and estimated minimum and maximum treatment costs.
 
 ## ✨ Key Features
 * **Disease-Based Search:** Users can find relevant hospitals by simply entering a disease name (e.g., "Cancer") in the search bar.
