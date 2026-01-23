@@ -15,15 +15,15 @@
 - [Contributors](#contributors)
 
 ## 🚀 Project Overview
-[cite_start]The primary objective of this portal is to create a centralized hub where users can search for hospitals based on specific diseases or medical departments[cite: 15, 31]. [cite_start]The system provides critical details such as hospital location, top doctors, and estimated minimum and maximum treatment costs[cite: 16].
+The primary objective of this portal is to create a centralized hub where users can search for hospitals based on specific diseases or medical departments[cite: 15, 31]. [cite_start]The system provides critical details such as hospital location, top doctors, and estimated minimum and maximum treatment costs.
 
 ## ✨ Key Features
-* [cite_start]**Disease-Based Search:** Users can find relevant hospitals by simply entering a disease name (e.g., "Cancer") in the search bar[cite: 32].
-* [cite_start]**Departmental Browsing:** Browse hospitals categorised by medical departments such as Cardiology, Oncology, or Neurology[cite: 34].
-* [cite_start]**Cost Estimation & Filtering:** View estimated treatment cost ranges and filter search results by budget to find affordable options[cite: 108, 240].
-* [cite_start]**Detailed Hospital Profiles:** Access essential information including location, hospital type (Private/Government), and years of operation[cite: 35, 103, 109].
-* [cite_start]**User Authentication:** Secure login and registration system for users to manage their access[cite: 17, 33].
-* [cite_start]**Top Doctor Listings:** View names of leading specialists associated with specific treatments[cite: 107].
+* **Disease-Based Search:** Users can find relevant hospitals by simply entering a disease name (e.g., "Cancer") in the search bar[cite: 32].
+* **Departmental Browsing:** Browse hospitals categorised by medical departments such as Cardiology, Oncology, or Neurology[cite: 34].
+* **Cost Estimation & Filtering:** View estimated treatment cost ranges and filter search results by budget to find affordable options[cite: 108, 240].
+* **Detailed Hospital Profiles:** Access essential information including location, hospital type (Private/Government), and years of operation[cite: 35, 103, 109].
+* **User Authentication:** Secure login and registration system for users to manage their access[cite: 17, 33].
+* **Top Doctor Listings:** View names of leading specialists associated with specific treatments[cite: 107].
 
 ## 🛠 Technology Stack
 [cite_start]The application is built using a standard client-server architecture[cite: 45].
