@@ -26,7 +26,7 @@ The primary objective of this portal is to create a centralized hub where users 
 * **Top Doctor Listings:** View names of leading specialists associated with specific treatments.
 
 ## 🛠 Technology Stack
-The application is built using a standard client-server architecture[cite: 45].
+The application is built using a standard client-server architecture.
 
 * **Server-Side:** PHP (v7.4+) 
 * **Database:** MySQL (MariaDB) 
